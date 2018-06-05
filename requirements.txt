@@ -7,6 +7,7 @@ botocore==1.10.4
 certifi==2018.1.18
 chardet==3.0.4
 colorama==0.3.7
+cycler==0.10.0
 decorator==4.2.1
 docutils==0.14
 entrypoints==0.2.3
@@ -24,7 +25,9 @@ jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
+kiwisolver==1.0.1
 MarkupSafe==1.0
+matplotlib==2.2.2
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
@@ -36,10 +39,12 @@ pandocfilters==1.4.2
 parso==0.1.1
 pexpect==4.4.0
 pickleshare==0.7.4
+Pillow==5.1.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pyasn1==0.4.2
 Pygments==2.2.0
+pyparsing==2.2.0
 PySocks==1.6.8
 python-dateutil==2.6.1
 pytz==2018.4
@@ -62,3 +67,4 @@ urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.2.0
+wordcloud==1.4.1
